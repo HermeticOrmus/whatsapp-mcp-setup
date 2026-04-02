@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "periskope-whatsapp": {
+      "comment": "Periskope WhatsApp MCP - get your API key at periskope.app",
+      "command": "npx",
+      "args": ["-y", "@periskope/whatsapp-mcp"],
+      "env": {
+        "PERISKOPE_API_KEY": "paste-your-jwt-api-key-here",
+        "PERISKOPE_PHONE_ID": "your-phone-number-digits-only"
+      }
+    }
+  }
+}
