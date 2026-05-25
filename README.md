@@ -1,5 +1,21 @@
-# WhatsApp MCP for Claude Code
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="WhatsApp MCP for Claude Code" width="128" style="image-rendering: pixelated;" />
+</p>
 
+<h1 align="center">WhatsApp MCP for Claude Code</h1>
+
+<p align="center">
+  <em>WhatsApp MCP setup guide for Claude Code — send/receive WhatsApp messages from your AI coding assistant</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/whatsapp-mcp-setup/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/whatsapp-mcp-setup?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/whatsapp-mcp-setup/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/whatsapp-mcp-setup?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/whatsapp-mcp-setup/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/whatsapp-mcp-setup?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
 Send and receive WhatsApp messages directly from Claude Code using the [Periskope](https://periskope.app) WhatsApp MCP server.
 
 This guide walks you through setting up WhatsApp as an MCP (Model Context Protocol) tool in Claude Code, plus optional skills that make WhatsApp messaging a natural part of your workflow.
